@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.big-title {
+    font-size: 10rem;
+    color: blue;
+    font-family: cursive;
+}
+
+.margin-50 {
+    margin: 50px;
+}
